@@ -1,0 +1,1 @@
+feign.lua – Repeatedly uses Feign Death on your monk as soon as it’s available to maximize skill training.
